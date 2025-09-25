@@ -8,7 +8,7 @@ const Header = () => {
   };
 
   return (
-    <div id="home" className="place-items-center py-12 md:py-24 px-4 h-[calc(100vh-74px)] md:h-[60vh] flex flex-col justify-between">
+    <div className="place-items-center py-12 md:py-24 px-4 h-[calc(100vh-74px)] md:h-[60vh] flex flex-col justify-between">
       {/* <div className="relative"> */}
       {/* </div> */}
 

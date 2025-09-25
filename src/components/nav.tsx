@@ -1,5 +1,5 @@
 import { Button } from "./ui/button";
-import { Menu } from 'lucide-react';
+import { Menu } from "lucide-react";
 const Nav = () => {
   return (
     <nav className="w-full sticky top-0 z-50 px-4">
@@ -21,19 +21,13 @@ const Nav = () => {
 
           <div className="hidden md:flex gap-2 px-3">
             <Button variant="secondary" asChild>
-              <a href="#home">
-                Home
-              </a>
+              <a href="#">Home</a>
             </Button>
             <Button variant="secondary" asChild>
-              <a href="#why">
-                Why AnatoLearn
-              </a>
+              <a href="#why">Why AnatoLearn</a>
             </Button>
             <Button variant="secondary" asChild>
-              <a href="#">
-                The Team
-              </a>
+              <a href="#">The Team</a>
             </Button>
           </div>
 
@@ -46,7 +40,7 @@ const Nav = () => {
           </Button>
         </div>
       </div>
-    </nav >
+    </nav>
   );
 };
 
