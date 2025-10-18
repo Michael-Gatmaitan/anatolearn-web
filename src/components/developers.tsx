@@ -12,7 +12,7 @@ const Developers = () => {
           name="Michael"
           position="Fullstack developer"
           imageURL="/images/team/kel.jpeg"
-          description="the programmer of the team, responsible for creating database, API, & user interfaces of the website"
+          description=""
         />
         <DeveloperCard
           name="Revo"
@@ -30,7 +30,7 @@ const Developers = () => {
           name="Maui"
           position="Documentation / Diagrams"
           imageURL="/images/team/mawi.jpg"
-          description="Lorem ipsum asdasd sit emet asdf;lhjk lkajshdflkjasdh lafksdh fjklh "
+          description=""
         />
       </div>
     </div>
